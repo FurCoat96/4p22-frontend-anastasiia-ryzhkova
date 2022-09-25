@@ -8,7 +8,7 @@ body {
     background:    -moz-linear-gradient(top, #b2d1dde7 0%, #1d1f20 100%);
     background:     -ms-linear-gradient(top, #b2d1dde7 0%, #1d1f20 100%);
     background:      -o-linear-gradient(top, #b2d1dde7 0%, #1d1f20 100%);
-    background:         linear-gradient(to bottom, #b2d1dde7 0%, #1d1f20 100%);
+    background:         linear-gradient(to bottom, #94da65e7 0%, #1d1f20 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333B41', endColorstr='#1d1f20', GradientType=0);
     background-attachment: fixed;
   }
@@ -62,7 +62,7 @@ body {
   
   table thead tr>th:nth-last-child(5),
   table tbody tr>td:nth-last-child(5) {
-    color : rgb(111,109,77);
+    color : rgb(216, 205, 54);
   }
   
   table thead tr>th:nth-last-child(18),
@@ -74,7 +74,7 @@ body {
     font-size:12px;
     padding : 10px;
     text-align: right;
-    border: 1px solid rgba(15, 172, 85, 0.247);
+    border: 1px solid rgba(4, 88, 42, 0.247);
   }
   
   .chemical span {
